@@ -1,2 +1,2 @@
 # rails-graphql-api
-A sample project for learning graphql
+A sample project for learning graphql.
